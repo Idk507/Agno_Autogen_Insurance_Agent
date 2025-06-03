@@ -24,11 +24,7 @@ from chromadb.config import Settings
 
 # Azure Configuration - Updated format
 AZURE_CONFIG = {
-   "api_key": "7NCSBIYABACOGKn3Y",
-    "base_url": "https://om/",  
-    "api_version": "2025-01-01-preview",
-    "embedding_deployment": "text-embedding-ada-002",
-    "gpt_deployment": "gpt-4o"
+ 
 }
 
 
